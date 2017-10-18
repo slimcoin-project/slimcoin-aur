@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Slimcoin
+Comment=Core wallet for Slimcoin P2P Cryptocurrency
+Exec=/usr/bin/slimcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/slimcoin.png
+MimeType=x-scheme-handler/slimcoin;
+Categories=Application;Network;
